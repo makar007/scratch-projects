@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="help.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4492">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop4494" />
+      <stop
+         style="stop-color:#d40000;stop-opacity:1"
+         offset="1"
+         id="stop4496" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 263.37404 : 1"
+       inkscape:vp_y="0 : -495.92494 : 0"
+       inkscape:vp_z="744.09448 : 263.37404 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.35499 : 1"
+       id="perspective3505" />
+    <linearGradient
+       id="linearGradient3123">
+      <stop
+         style="stop-color:#a196b1;stop-opacity:1;"
+         offset="0"
+         id="stop3125" />
+      <stop
+         style="stop-color:#ff6600;stop-opacity:1"
+         offset="1"
+         id="stop3127" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4492"
+       id="radialGradient4498"
+       cx="338.57144"
+       cy="646.14069"
+       fx="338.57144"
+       fy="646.14069"
+       r="119.28571"
+       gradientTransform="matrix(0.40127632,-0.31039309,1.2511174,1.6174462,-605.68706,-294.7882)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4492"
+       id="radialGradient4506"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.40127632,-0.31039309,1.2511174,1.6174462,-605.68706,-294.7882)"
+       cx="338.57144"
+       cy="646.14069"
+       fx="338.57144"
+       fy="646.14069"
+       r="119.28571" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="370.49477"
+     inkscape:cy="561.22316"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1273"
+     inkscape:window-height="903"
+     inkscape:window-x="22"
+     inkscape:window-y="61"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#2265f1;stroke-width:25.00139999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4517"
+       width="927.01672"
+       height="601.84418"
+       x="-111.61186"
+       y="71.243011"
+       inkscape:export-filename="/Users/sergogolovachev/Sites/makar/scratch-projects/help2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4523"
+       style="font-size:19px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       inkscape:export-filename="/Users/sergogolovachev/Sites/makar/scratch-projects/help2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(1.1518907,0,0,1.1711502,-356.23248,-5.1386131)"><flowRegion
+         id="flowRegion4525"><rect
+           id="rect4527"
+           width="384.28571"
+           height="728.57141"
+           x="238.57143"
+           y="152.36218"
+           style="font-size:19px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+         id="flowPara4529">- Признаки делимости XYZ на 2: если Z= 0 или чётнoe</flowPara><flowPara
+         id="flowPara4547" /><flowPara
+         id="flowPara4531">- Признаки делимости XYZ на 3: если X+Y+Z делится на 3</flowPara><flowPara
+         id="flowPara4549" /><flowPara
+         id="flowPara4533">- Признаки делимости XYZ на 4: если YZ = 00 или делятся на 4</flowPara><flowPara
+         id="flowPara4551" /><flowPara
+         id="flowPara4553">- Признаки делимости XYZ на 5: если Z = 0 или Z = 5 </flowPara><flowPara
+         id="flowPara4575" /><flowPara
+         id="flowPara4537" /><flowPara
+         id="flowPara4539" /><flowPara
+         id="flowPara4541" /><flowPara
+         id="flowPara4543" /><flowPara
+         id="flowPara4545" /></flowRoot>    <flowRoot
+       transform="matrix(1.1518907,0,0,1.1711502,96.295994,-63.696122)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/sergogolovachev/Sites/makar/scratch-projects/help2.png"
+       style="font-size:19px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       id="flowRoot4618"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4620"><rect
+           style="font-size:19px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           y="152.36218"
+           x="238.57143"
+           height="732.85712"
+           width="355.71429"
+           id="rect4622" /></flowRegion><flowPara
+         id="flowPara4636" /><flowPara
+         id="flowPara4638" /><flowPara
+         id="flowPara4640">- Признаки делимости XYZ на 6: если число делится на 2 и на 3</flowPara><flowPara
+         id="flowPara4642" /><flowPara
+         id="flowPara4644">- Признаки делимости XYZ на 7: eсли XY - (2*Z) делится на 7</flowPara><flowPara
+         id="flowPara4646" /><flowPara
+         id="flowPara4648">- Признаки делимости XYZ на 8: если AB = XY + (Z/2) и потом A + B/2 делится на 2</flowPara><flowPara
+         id="flowPara4650" /><flowPara
+         id="flowPara4652">- Признаки делимости XYZ на 9: если X+Y+Z делится на 9</flowPara><flowPara
+         id="flowPara4654" /><flowPara
+         id="flowPara4656" /><flowPara
+         id="flowPara4658" /><flowPara
+         id="flowPara4660" /><flowPara
+         id="flowPara4662" /><flowPara
+         id="flowPara4664" /><flowPara
+         id="flowPara4666" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4745"
+       style="font-size:19px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       inkscape:export-filename="/Users/sergogolovachev/Sites/makar/scratch-projects/help2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(1.1518907,0,0,1.1711502,-232.81564,317.76422)"><flowRegion
+         id="flowRegion4747"><rect
+           id="rect4749"
+           width="627.14282"
+           height="114.28569"
+           x="238.57143"
+           y="152.36218"
+           style="font-size:19px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+         id="flowPara4751" /><flowPara
+         id="flowPara4767" /><flowPara
+         id="flowPara4769" /><flowPara
+         id="flowPara4771">- Признаки делимости XYZ на 10: если Z = 0</flowPara><flowPara
+         id="flowPara4773" /><flowPara
+         id="flowPara4775" /><flowPara
+         id="flowPara4777" /><flowPara
+         id="flowPara4779" /><flowPara
+         id="flowPara4781" /></flowRoot>    <path
+       sodipodi:type="arc"
+       style="fill:#00ff00;fill-opacity:1;stroke:none"
+       id="path4579"
+       sodipodi:cx="-17.857143"
+       sodipodi:cy="218.79076"
+       sodipodi:rx="9.2857141"
+       sodipodi:ry="9.2857141"
+       d="m -8.5714293,218.79076 a 9.2857141,9.2857141 0 1 1 -18.5714287,0 9.2857141,9.2857141 0 1 1 18.5714287,0 z"
+       transform="matrix(0.7088558,0,0,0.72070779,-63.829469,31.67767)"
+       inkscape:export-filename="/Users/sergogolovachev/Sites/makar/scratch-projects/help2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.7088558,0,0,0.72070779,-60.538352,120.35048)"
+       d="m -8.5714293,218.79076 a 9.2857141,9.2857141 0 1 1 -18.5714287,0 9.2857141,9.2857141 0 1 1 18.5714287,0 z"
+       sodipodi:ry="9.2857141"
+       sodipodi:rx="9.2857141"
+       sodipodi:cy="218.79076"
+       sodipodi:cx="-17.857143"
+       id="path4581"
+       style="fill:#00ff00;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/sergogolovachev/Sites/makar/scratch-projects/help2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#00ff00;fill-opacity:1;stroke:none"
+       id="path4583"
+       sodipodi:cx="-17.857143"
+       sodipodi:cy="218.79076"
+       sodipodi:rx="9.2857141"
+       sodipodi:ry="9.2857141"
+       d="m -8.5714293,218.79076 a 9.2857141,9.2857141 0 1 1 -18.5714287,0 9.2857141,9.2857141 0 1 1 18.5714287,0 z"
+       transform="matrix(0.7088558,0,0,0.72070779,-63.829468,202.33099)"
+       inkscape:export-filename="/Users/sergogolovachev/Sites/makar/scratch-projects/help2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.7088558,0,0,0.72070779,-60.538354,292.67686)"
+       d="m -8.5714293,218.79076 a 9.2857141,9.2857141 0 1 1 -18.5714287,0 9.2857141,9.2857141 0 1 1 18.5714287,0 z"
+       sodipodi:ry="9.2857141"
+       sodipodi:rx="9.2857141"
+       sodipodi:cy="218.79076"
+       sodipodi:cx="-17.857143"
+       id="path4585"
+       style="fill:#00ff00;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/sergogolovachev/Sites/makar/scratch-projects/help2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#00ff00;fill-opacity:1;stroke:none"
+       id="path4589"
+       sodipodi:cx="-17.857143"
+       sodipodi:cy="218.79076"
+       sodipodi:rx="9.2857141"
+       sodipodi:ry="9.2857141"
+       d="m -8.5714293,218.79076 a 9.2857141,9.2857141 0 1 1 -18.5714287,0 9.2857141,9.2857141 0 1 1 18.5714287,0 z"
+       transform="matrix(0.7088558,0,0,0.72070779,388.69901,30.004605)"
+       inkscape:export-filename="/Users/sergogolovachev/Sites/makar/scratch-projects/help2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.7088558,0,0,0.72070779,387.05347,120.35047)"
+       d="m -8.5714293,218.79076 a 9.2857141,9.2857141 0 1 1 -18.5714287,0 9.2857141,9.2857141 0 1 1 18.5714287,0 z"
+       sodipodi:ry="9.2857141"
+       sodipodi:rx="9.2857141"
+       sodipodi:cy="218.79076"
+       sodipodi:cx="-17.857143"
+       id="path4591"
+       style="fill:#00ff00;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/sergogolovachev/Sites/makar/scratch-projects/help2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#00ff00;fill-opacity:1;stroke:none"
+       id="path4593"
+       sodipodi:cx="-17.857143"
+       sodipodi:cy="218.79076"
+       sodipodi:rx="9.2857141"
+       sodipodi:ry="9.2857141"
+       d="m -8.5714293,218.79076 a 9.2857141,9.2857141 0 1 1 -18.5714287,0 9.2857141,9.2857141 0 1 1 18.5714287,0 z"
+       transform="matrix(0.7088558,0,0,0.72070779,387.05347,202.33098)"
+       inkscape:export-filename="/Users/sergogolovachev/Sites/makar/scratch-projects/help2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.7088558,0,0,0.72070779,391.99013,316.09986)"
+       d="m -8.5714293,218.79076 a 9.2857141,9.2857141 0 1 1 -18.5714287,0 9.2857141,9.2857141 0 1 1 18.5714287,0 z"
+       sodipodi:ry="9.2857141"
+       sodipodi:rx="9.2857141"
+       sodipodi:cy="218.79076"
+       sodipodi:cx="-17.857143"
+       id="path4595"
+       style="fill:#00ff00;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/sergogolovachev/Sites/makar/scratch-projects/help2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#00ff00;fill-opacity:1;stroke:none"
+       id="path4597"
+       sodipodi:cx="-17.857143"
+       sodipodi:cy="218.79076"
+       sodipodi:rx="9.2857141"
+       sodipodi:ry="9.2857141"
+       d="m -8.5714293,218.79076 a 9.2857141,9.2857141 0 1 1 -18.5714287,0 9.2857141,9.2857141 0 1 1 18.5714287,0 z"
+       transform="matrix(0.7088558,0,0,0.72070779,57.941837,439.90717)"
+       inkscape:export-filename="/Users/sergogolovachev/Sites/makar/scratch-projects/help2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#2265f1;fill-opacity:1;stroke:none"
+       id="rect4818"
+       width="8.2277908"
+       height="386.47955"
+       x="344.77527"
+       y="178.31961"
+       inkscape:export-filename="/Users/sergogolovachev/Sites/makar/scratch-projects/help2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="47.142857"
+       y="149.50504"
+       id="text4820"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/sergogolovachev/Sites/makar/scratch-projects/help2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4822"
+         x="47.142857"
+         y="149.50504" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:46.45922089px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2265f1;fill-opacity:1;stroke:none;font-family:Sans"
+       x="194.99391"
+       y="135.36584"
+       id="text4824"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/sergogolovachev/Sites/makar/scratch-projects/help2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="scale(0.99174345,1.0083253)"><tspan
+         sodipodi:role="line"
+         id="tspan4826"
+         x="194.99391"
+         y="135.36584"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">ШПАРГАЛКА</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:46.45922089px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke:none;font-family:Sans"
+       x="430.91446"
+       y="644.09283"
+       id="text4847"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.69124127,-0.72304482,0.7111544,0.70279875,0,0)"
+       inkscape:export-filename="/Users/sergogolovachev/Sites/makar/scratch-projects/help2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4849"
+         x="430.91446"
+         y="644.09283">+</tspan></text>
+  </g>
+</svg>
